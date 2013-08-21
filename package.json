@@ -1,0 +1,16 @@
+{
+  "name": "Clientside",
+  "version": "0.0.0",
+  "description": "JavaScript, HTML, CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "testem"
+  },
+  "author": "Kotaro Nishino",
+  "license": "BSD",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-cssmin": "~0.6",
+    "grunt-markdown": "~0.4.0"
+  }
+}
